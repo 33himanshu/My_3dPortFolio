@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "../../../threejscc_portfolio-public/public"
+		},
+		{
+			"name": "Myportfolio_Final_3d",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Myportfolio_Final_3d"
+	}
+}
